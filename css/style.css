@@ -1,0 +1,23 @@
+ body{
+    background: rgb(0, 0, 0);
+}
+
+div{
+    border: 2px solid rgb(75, 210, 30);
+}
+
+
+video{
+
+    width: 100%;
+
+   
+}
+.container-fluid{
+   width: 100%;
+    overflow: hidden;
+    height: 300px;
+}
+.box{
+    width: 100%;
+}
